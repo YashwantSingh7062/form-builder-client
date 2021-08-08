@@ -1,0 +1,15 @@
+.add_form_div{
+    left: 50%;
+    position: relative;
+    transform: translate(-50%, 0);
+    margin: 30px 0;
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.add_form_button_img{
+    height: 50px;
+    width: 50px;
+}

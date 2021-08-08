@@ -1,0 +1,24 @@
+.answerButtons{
+    cursor: pointer;
+    color: gray;
+}
+
+.answerButtons:hover{
+    color: gray;
+}
+
+.float_right{
+    float: right;
+}
+
+.float_left{
+    float: left;
+}
+.float_clearfix{
+    height:40px
+}
+
+.anchor_tag{
+    color:#0b5ed7;
+    cursor:pointer;
+}
